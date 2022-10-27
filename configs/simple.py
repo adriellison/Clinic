@@ -28,8 +28,6 @@ def carregar():
 	'███████████████████▒95%',
 	'████████████████████100%']
 	for i in lista:
-
-		
 		time.sleep(0.05),cls(),print('\n\n\n\n\n\n\n\t\t\t\tCarrengando sistema...\n\t\t\t\t',i)
 	cls()
 
